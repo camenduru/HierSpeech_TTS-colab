@@ -23,6 +23,7 @@ https://sh-lee-prml.github.io/HierSpeechpp-demo/
 
 ## Output
 
+https://github.com/camenduru/HierSpeech_TTS-colab/assets/54370274/2c1328b3-ef2f-4853-bd54-dc337863e7a7
 
 ## Sponsor
 https://modelslab.com
